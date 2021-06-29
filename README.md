@@ -29,4 +29,5 @@ $ rm -rf premium
 $ git clone https://github.com/SaefudinXd/PREM
 ## ⇨  Run Script
 $ cd PREM 
+
 $ python PREM.py  
